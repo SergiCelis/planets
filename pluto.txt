@@ -1,2 +1,3 @@
 It is so a planet!
 I think it is no planet at all, planetoid maybe?
+Testing the command git diff main origin/main as a collaborator
